@@ -1,3 +1,5 @@
 # Grasshopper-Steam-Engine-H.MUNCASTER
 3D CAD model of a Grasshopper steam engine (52+ parts, full assembly) <br><br><br><br>
-<img width="900" height="750" alt="MUNCASTER" src="https://github.com/user-attachments/assets/7b0ae68b-8427-4edf-841d-9a62ee7f7338" />
+<p align="center">
+<img width="488" height="405" alt="MUNCASTER" src="https://github.com/user-attachments/assets/9e89c63c-0ca4-45ca-b310-55804fd68bcd" />
+</p>
